@@ -1,0 +1,79 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alex Gichangiru - AI Data & Language Specialist</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; background-color: #f4f6f8; }
+        header { background: linear-gradient(135deg, #1a73e8, #4cafee); color: white; padding: 50px 20px; text-align: center; }
+        header h1 { margin: 0; font-size: 3em; text-shadow: 1px 1px 4px rgba(0,0,0,0.2); }
+        header p { font-size: 1.2em; margin-top: 10px; }
+        section { padding: 50px 20px; max-width: 1000px; margin: auto; background-color: white; margin-bottom: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s; }
+        section:hover { transform: translateY(-5px); }
+        h2 { color: #1a73e8; margin-bottom: 15px; }
+        ul { list-style-type: disc; margin-left: 20px; }
+        .project, .translation-sample { margin-bottom: 25px; }
+        footer { background-color: #1a73e8; color: white; text-align: center; padding: 25px; }
+        a { color: #1a73e8; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .highlight { background-color: #e8f0fe; padding: 5px 8px; border-radius: 4px; }
+    </style>
+</head>
+<body><header>
+    <h1>Alex Gichangiru</h1>
+    <p>AI Data & Language Specialist</p>
+    <p>Email: <a class="highlight" href="mailto:gichangirualex@gmail.com">gichangirualex@gmail.com</a> | Phone: +254729577640</p>
+</header><section>
+    <h2>About Me</h2>
+    <p>I am an AI Data and Language Contributor with experience in Swahili–English translation, AI data annotation, and quality assurance. I specialize in producing high-quality, accurate datasets for AI models, while preserving meaning, context, and tone.</p>
+</section><section>
+    <h2>Core Skills</h2>
+    <ul>
+        <li>Swahili ↔ English Translation</li>
+        <li>AI Data Annotation</li>
+        <li>NLP Text Labeling</li>
+        <li>Translation Quality Assurance (QA)</li>
+        <li>Dataset Cleaning & Bias Review</li>
+        <li>Guideline Compliance & Review</li>
+    </ul>
+</section><section>
+    <h2>Projects</h2>
+    <div class="project">
+        <h3>1. Swahili–English Translation & Quality Review</h3>
+        <p>Translated informational, instructional, and user-generated Swahili content into clear, natural English. Ensured semantic accuracy, tone preservation, and consistency according to AI training guidelines.</p>
+    </div>
+    <div class="project">
+        <h3>2. NLP Text Annotation & Validation</h3>
+        <p>Labeled text data by intent, sentiment, and topic. Reviewed annotations for consistency and corrected errors to maintain high-quality language datasets for NLP models.</p>
+    </div>
+    <div class="project">
+        <h3>3. AI Dataset Cleaning & Bias Review</h3>
+        <p>Validated AI training datasets by identifying duplicates, inconsistent labels, and potential bias. Improved dataset quality and reliability for downstream model training.</p>
+    </div>
+</section><section>
+    <h2>Translation Samples</h2>
+    <div class="translation-sample">
+        <p><b>Swahili:</b> Serikali imeongeza juhudi za kuboresha huduma za afya ili kuwafikia wananchi wengi zaidi vijijini.</p>
+        <p><b>English:</b> The government has increased efforts to improve healthcare services in order to reach more citizens in rural areas.</p>
+    </div>
+    <div class="translation-sample">
+        <p><b>Swahili:</b> Niliridhika na huduma, lakini mawasiliano yalikuwa duni.</p>
+        <p><b>English:</b> I was satisfied with the service, but communication was poor.</p>
+    </div>
+    <div class="translation-sample">
+        <p><b>Swahili:</b> Tafadhali hakikisha taarifa zako zote ni sahihi kabla ya kuthibitisha ombi.</p>
+        <p><b>English:</b> Please ensure that all your information is accurate before confirming the application.</p>
+    </div>
+    <div class="translation-sample">
+        <p><b>Swahili:</b> Ripoti inaonyesha kupungua kwa ajira katika sekta binafsi katika kipindi cha miezi mitatu iliyopita.</p>
+        <p><b>English:</b> The report shows a decline in employment in the private sector over the past three months.</p>
+    </div>
+</section><section>
+    <h2>Contact</h2>
+    <p>Email: <a class="highlight" href="mailto:gichangirualex@gmail.com">gichangirualex@gmail.com</a><br/>
+    Phone: +254729577640<br/>
+    LinkedIn: <a class="highlight" href="https://www.linkedin.com/in/alexgichangiru" target="_blank">linkedin.com/in/alexgichangiru</a></p>
+</section><footer>
+    <p>&copy; 2025 Alex Gichangiru. All rights reserved.</p>
+</footer></body>
+</html>
